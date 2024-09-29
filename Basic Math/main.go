@@ -7,5 +7,5 @@ func main() {
 	// CountDigit()
 	// LCMGCD()
 	// ArmstrongNumber()
-	Divisor()
+	// Divisor()
 }
