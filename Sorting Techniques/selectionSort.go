@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func sortArr(arr []int) {
-	for index, _ := range arr {
-		for i, _ := range arr {
+	for index := range arr {
+		for i := range arr {
 			if arr[index] > arr[i] {
 				temp := arr[index]
 				arr[index] = arr[i]

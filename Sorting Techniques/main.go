@@ -4,6 +4,9 @@ import "fmt"
 
 func main() {
 	fmt.Println("Welcome to the sorting techniques")
-	SelectionSort()
+	// SelectionSort()
+	// BubbleSort()
+	// InsertionSort()
+	MergeSort()
 
 }
