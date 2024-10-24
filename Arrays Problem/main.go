@@ -4,5 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Println("Practice on Arrays")
-	LargestElement()
+	// LargestElement()
+	// SecondLargest()
+	IsSorted()
 }
