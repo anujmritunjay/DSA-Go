@@ -6,5 +6,12 @@ func main() {
 	fmt.Println("Practice on Arrays")
 	// LargestElement()
 	// SecondLargest()
-	IsSorted()
+	// IsSorted()
+	// RemoveDuplicate()
+	// RotateArrayByOne()
+	// MoveZeroToEnd()
+	// LinearSearch()
+	// FindUnion()
+	// ConsecutiveOne()
+	KthDistance()
 }
